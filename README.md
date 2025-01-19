@@ -5,4 +5,7 @@
 # How to use:
 
 * Launch cristalix
-* Launch CristalixClicker.exe, press INSERT
+* Launch CristalixClicker.exe
+
+
+* Menu: INSERT, Selfdestruct: DELETE
